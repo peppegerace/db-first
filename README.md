@@ -31,6 +31,18 @@
 | autocarro              | CHAR(2)      | NULL        |                | 
 | auto_incidentata       | CHAR(2)      | NOT_NULL    |                | 
 | ultima_manutenzione    | DATE         | NULL        |                | 
+| airbag                 | VARCHAR(50)  | NULL        |                | 
+| climatizzatore         | CHAR(2)      | NULL        |                | 
+| sedili riscaldabili    | CHAR(2)      | NULL        |                | 
+| sensori_parcheggio     | CHAR(2)      | NULL        |                | 
+| tetto_panoramico       | CHAR(2)      | NULL        |                | 
+| autoradio              | CHAR(2)      | NULL        |                | 
+| bluetooth              | CHAR(2)      | NULL        |                | 
+| comandi_al_volante     | CHAR(2)      | NULL        |                | 
+| boardcomputer          | CHAR(2)      | NULL        |                | 
+| navigatore             | CHAR(2)      | NULL        |                | 
+| tipo_di_fari           | CHAR(7)      | NULL        |                | 
+
 
 
 
